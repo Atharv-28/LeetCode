@@ -13,6 +13,7 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Atharv-28/LeetCode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Atharv-28/LeetCode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -33,6 +34,7 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Atharv-28/LeetCode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
