@@ -6,6 +6,7 @@ These are my solved LeetCode Solution in JAVA
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Atharv-28/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Atharv-28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Atharv-28/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -29,6 +30,7 @@ These are my solved LeetCode Solution in JAVA
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Atharv-28/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -39,4 +41,8 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Atharv-28/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
