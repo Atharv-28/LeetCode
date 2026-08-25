@@ -45,4 +45,16 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Atharv-28/LeetCode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Atharv-28/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Atharv-28/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Atharv-28/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
