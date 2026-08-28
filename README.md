@@ -14,6 +14,7 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Atharv-28/LeetCode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Atharv-28/LeetCode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
@@ -23,6 +24,7 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +59,16 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharv-28/LeetCode/tree/master/0020-valid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
