@@ -13,6 +13,7 @@ These are my solved LeetCode Solution in JAVA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Atharv-28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Atharv-28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Atharv-28/LeetCode/tree/master/0338-counting-bits) |
@@ -23,6 +24,7 @@ These are my solved LeetCode Solution in JAVA
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Atharv-28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atharv-28/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -76,4 +78,8 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atharv-28/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Atharv-28/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
