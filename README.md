@@ -25,6 +25,7 @@ These are my solved LeetCode Solution in JAVA
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Atharv-28/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Atharv-28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
@@ -33,6 +34,7 @@ These are my solved LeetCode Solution in JAVA
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Atharv-28/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
