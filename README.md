@@ -56,6 +56,7 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharv-28/LeetCode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
@@ -84,4 +85,8 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Atharv-28/LeetCode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
