@@ -58,6 +58,7 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharv-28/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Atharv-28/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
