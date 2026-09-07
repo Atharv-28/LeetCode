@@ -27,6 +27,7 @@ These are my solved LeetCode Solution in JAVA
 | ------- |
 | [0041-first-missing-positive](https://github.com/Atharv-28/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Atharv-28/LeetCode/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Atharv-28/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atharv-28/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -44,6 +45,7 @@ These are my solved LeetCode Solution in JAVA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Atharv-28/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Atharv-28/LeetCode/tree/master/0338-counting-bits) |
 ## Sorting
