@@ -26,6 +26,7 @@ These are my solved LeetCode Solution in JAVA
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Atharv-28/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Atharv-28/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Atharv-28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Atharv-28/LeetCode/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@ These are my solved LeetCode Solution in JAVA
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Atharv-28/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Atharv-28/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
