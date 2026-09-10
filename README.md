@@ -29,6 +29,7 @@ These are my solved LeetCode Solution in JAVA
 | [0035-search-insert-position](https://github.com/Atharv-28/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Atharv-28/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Atharv-28/LeetCode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Atharv-28/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
@@ -54,6 +55,7 @@ These are my solved LeetCode Solution in JAVA
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
@@ -99,6 +101,7 @@ These are my solved LeetCode Solution in JAVA
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
 ## Tree
 |  |
