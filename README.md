@@ -34,12 +34,14 @@ These are my solved LeetCode Solution in JAVA
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atharv-28/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Atharv-28/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atharv-28/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Atharv-28/LeetCode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Atharv-28/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +131,9 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Atharv-28/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Atharv-28/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Atharv-28/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
