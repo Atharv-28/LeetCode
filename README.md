@@ -26,6 +26,7 @@ These are my solved LeetCode Solution in JAVA
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Atharv-28/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Atharv-28/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Atharv-28/LeetCode/tree/master/0041-first-missing-positive) |
@@ -104,6 +105,7 @@ These are my solved LeetCode Solution in JAVA
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Atharv-28/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
