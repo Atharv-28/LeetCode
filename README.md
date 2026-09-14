@@ -36,6 +36,7 @@ These are my solved LeetCode Solution in JAVA
 | [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Atharv-28/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Atharv-28/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atharv-28/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atharv-28/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -110,6 +111,7 @@ These are my solved LeetCode Solution in JAVA
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Atharv-28/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Atharv-28/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
 ## Tree
 |  |
