@@ -39,6 +39,7 @@ These are my solved LeetCode Solution in JAVA
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Atharv-28/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
+| [0977-squares-of-a-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atharv-28/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atharv-28/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atharv-28/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -65,6 +66,7 @@ These are my solved LeetCode Solution in JAVA
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -115,6 +117,7 @@ These are my solved LeetCode Solution in JAVA
 | [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Atharv-28/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
