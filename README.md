@@ -6,6 +6,7 @@ These are my solved LeetCode Solution in JAVA
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Atharv-28/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Atharv-28/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Atharv-28/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Atharv-28/LeetCode/tree/master/0070-climbing-stairs) |
