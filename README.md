@@ -79,6 +79,7 @@ These are my solved LeetCode Solution in JAVA
 | [0058-length-of-last-word](https://github.com/Atharv-28/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
 | [0504-base-7](https://github.com/Atharv-28/LeetCode/tree/master/0504-base-7) |
+| [3498-reverse-degree-of-a-string](https://github.com/Atharv-28/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atharv-28/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Atharv-28/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
