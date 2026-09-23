@@ -48,6 +48,7 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Atharv-28/LeetCode/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/Atharv-28/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atharv-28/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -118,6 +119,7 @@ These are my solved LeetCode Solution in JAVA
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Atharv-28/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Atharv-28/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Atharv-28/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -144,6 +146,7 @@ These are my solved LeetCode Solution in JAVA
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Atharv-28/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Atharv-28/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Atharv-28/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Atharv-28/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
@@ -155,4 +158,8 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atharv-28/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Atharv-28/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
