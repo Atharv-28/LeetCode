@@ -12,6 +12,7 @@ These are my solved LeetCode Solution in JAVA
 | [0070-climbing-stairs](https://github.com/Atharv-28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/Atharv-28/LeetCode/tree/master/0504-base-7) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharv-28/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Atharv-28/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Atharv-28/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atharv-28/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -43,6 +44,7 @@ These are my solved LeetCode Solution in JAVA
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atharv-28/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atharv-28/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharv-28/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Atharv-28/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
