@@ -1,6 +1,6 @@
 class Solution {
     public int smallestIndex(int[] nums) {
-        int small= nums.length;
+        int small= -1;
         for(int i=0;i<nums.length;i++)
         {
             int rem, sum =0;
@@ -13,15 +13,9 @@ class Solution {
             }
             if(sum == i)
             {
-                small = Math.min(small, i);
+                return i;
             }
         }
-        if(small == nums.length)
-        {
-            return -1;
-        }
-        else{
-            return small;
-        }
+        return small;
     }
 }
