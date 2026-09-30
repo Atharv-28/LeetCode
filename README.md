@@ -8,6 +8,7 @@ These are my solved LeetCode Solution in JAVA
 | ------- |
 | [0007-reverse-integer](https://github.com/Atharv-28/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Atharv-28/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Atharv-28/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Atharv-28/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Atharv-28/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@ These are my solved LeetCode Solution in JAVA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Atharv-28/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Atharv-28/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Atharv-28/LeetCode/tree/master/0338-counting-bits) |
@@ -80,6 +82,7 @@ These are my solved LeetCode Solution in JAVA
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharv-28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Atharv-28/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Atharv-28/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
 | [0504-base-7](https://github.com/Atharv-28/LeetCode/tree/master/0504-base-7) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atharv-28/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -109,6 +112,7 @@ These are my solved LeetCode Solution in JAVA
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Atharv-28/LeetCode/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atharv-28/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atharv-28/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
