@@ -22,6 +22,7 @@ These are my solved LeetCode Solution in JAVA
 | ------- |
 | [0053-maximum-subarray](https://github.com/Atharv-28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Atharv-28/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharv-28/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Atharv-28/LeetCode/tree/master/0338-counting-bits) |
 ## Memoization
@@ -38,6 +39,7 @@ These are my solved LeetCode Solution in JAVA
 | [0053-maximum-subarray](https://github.com/Atharv-28/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Atharv-28/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharv-28/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Atharv-28/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Atharv-28/LeetCode/tree/master/0283-move-zeroes) |
