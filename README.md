@@ -46,6 +46,7 @@ These are my solved LeetCode Solution in JAVA
 | [0283-move-zeroes](https://github.com/Atharv-28/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Atharv-28/LeetCode/tree/master/0322-coin-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atharv-28/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Atharv-28/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Atharv-28/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharv-28/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -63,6 +64,7 @@ These are my solved LeetCode Solution in JAVA
 | [0035-search-insert-position](https://github.com/Atharv-28/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Atharv-28/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atharv-28/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +78,7 @@ These are my solved LeetCode Solution in JAVA
 | [0088-merge-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Atharv-28/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atharv-28/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -133,6 +136,7 @@ These are my solved LeetCode Solution in JAVA
 | [0283-move-zeroes](https://github.com/Atharv-28/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Atharv-28/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharv-28/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atharv-28/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Tree
 |  |
 | ------- |
