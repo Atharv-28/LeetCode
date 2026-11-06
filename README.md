@@ -176,4 +176,8 @@ These are my solved LeetCode Solution in JAVA
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Atharv-28/LeetCode/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Atharv-28/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
